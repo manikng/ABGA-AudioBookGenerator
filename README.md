@@ -1,6 +1,6 @@
 
 # AI Audiobook Generator — Week 1 Starter
-
+### starting ...
 ## What Week 1 Does
 ✅ Upload PDF / DOCX / TXT  
 ✅ Extract & show text preview  
