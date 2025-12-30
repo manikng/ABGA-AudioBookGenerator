@@ -5,7 +5,7 @@
 ✅ Upload PDF / DOCX / TXT  
 ✅ Extract & show text preview  
 ✅ Groq LLM Till Now  
-❌ No voice generation yet  
+✅ Voice generation with gTTS(for future: cocqui TTS)  
 
 ## How to Run
 
